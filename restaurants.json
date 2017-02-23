@@ -1,13 +1,14 @@
-{
-  "restaurants": [
-    {
-      "name": "Dragisina pecenjara"
-    },
-    {
-      "name": "Kod Mileta"
-    },
-    {
-      "name": "Jaga i Guda"
-    }
-  ]
-}
+[
+  {
+    "name": "Dragisina pecenjara",
+    "image": ""
+  },
+  {
+    "name": "Kod Mileta",
+    "image": ""
+  },
+  {
+    "name": "Jaga i Gudai",
+    "image": ""
+  }
+]
